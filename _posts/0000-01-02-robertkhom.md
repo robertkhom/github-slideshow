@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*Life is like a box of chocolate*
 Use the left arrow to go back!
